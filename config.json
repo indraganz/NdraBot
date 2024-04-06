@@ -1,0 +1,26 @@
+{
+  "ownerNumber": "6285325268412@s.whatsapp.net",
+  "ownerName": "INDRA_ATTACKER",
+  "botName": "Manuk Bot",
+  "packname": "follow",
+  "author": "@Indra",
+  "pathimg": "./media/manuk.jpg",
+  "apikey": {
+    "caliph": "caliphkey",
+    "miko": "Mikokey"
+  },
+  "hmm": {
+    "yt": "https://youtube.com/@indraganzmodz?si=zm0bcJc8GUIFBcXC",
+    "tt": "https://www.tiktok.com/@iindragganz?_t=8lI81xYBmVd&_r=1",
+    "linkmenu": "https://chat.whatsapp.com/JbXxUb38zRIAqJ2NjZ304f"
+  },
+  "donasi": {
+	"dana": "085878398032",
+  },
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
